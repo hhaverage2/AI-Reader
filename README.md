@@ -9,7 +9,7 @@
 ✅ AI语境查词：手指轻点生词，AI结合当前句子上下文给出精准释义、音标，并自动生成中英对照例句。
 ✅ 地道语音朗读：内置小喇叭，无论是单词、例句还是整段课文，随时随地听地道中外文朗读。
 ✅ 专属生词本：一键加入生词本，支持搜索，方便后续复习记忆。
-✅ 高度自定义：支持导入本地 EPUB 和自制 TXT 电子书；支持调节字体大小、羊皮护眼/夜间模式等背景；自由切换 GPT-4o 满血版、Claude Sonnet 等大师级文学精翻模型。
+✅ 高度自定义：支持导入本地 EPUB/PDF/MOBI 和自制 TXT 电子书；支持调节字体大小、羊皮护眼/夜间模式等背景；自由切换 GPT-4o 满血版、Claude Sonnet 等大师级文学精翻模型。
 <img width="1008" height="2244" alt="Screenshot_20261103-225026" src="https://github.com/user-attachments/assets/adcd296e-71fc-4d46-9d39-5ce995a92f7b" />
 
 <img width="1008" height="2244" alt="Screenshot_20261103-225516" src="https://github.com/user-attachments/assets/d33f3e04-882a-4e0b-953a-6f976c94e92b" />
