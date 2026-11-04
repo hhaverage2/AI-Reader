@@ -14,10 +14,10 @@ AI双语对照电子书阅读器
 ✅ 高度自定义：支持导入本地 EPUB/PDF/MOBI 和自制 TXT 电子书；支持调节字体大小、羊皮护眼/夜间模式等背景；自由切换 GPT-4o 满血版、Claude Sonnet 等大师级文学精翻模型。
 <img width="1008" height="2244" alt="Screenshot_20261103-225026" src="https://github.com/user-attachments/assets/adcd296e-71fc-4d46-9d39-5ce995a92f7b" />
 
+<img width="1008" height="2244" alt="Screenshot_20261103-225154" src="https://github.com/user-attachments/assets/166a0a1b-662c-41fd-8cfe-4ab54befd6a3" />
+
 <img width="1008" height="2244" alt="Screenshot_20261103-225516" src="https://github.com/user-attachments/assets/d33f3e04-882a-4e0b-953a-6f976c94e92b" />
 
 <img width="1008" height="2244" alt="Screenshot_20261103-225505" src="https://github.com/user-attachments/assets/5c7f4d36-5cf2-417d-823c-840950d7bcb2" />
-
-<img width="1008" height="2244" alt="Screenshot_20261103-225154" src="https://github.com/user-attachments/assets/166a0a1b-662c-41fd-8cfe-4ab54befd6a3" />
 
 <img width="1008" height="2244" alt="Screenshot_20261103-225614" src="https://github.com/user-attachments/assets/96f307ca-f3e0-4159-a101-2e443dcc8046" />
